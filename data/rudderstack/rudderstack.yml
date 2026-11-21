@@ -1,0 +1,13 @@
+name: "RudderStack"
+description: "Warehouse-native customer data platform for collecting and routing event data. Offers open-source core with self-hosted and managed cloud options. Pricing includes a free tier and volume-based paid plans."
+source_url: "https://rudderstack.com/"
+category: "Composable / Warehouse-Native CDPs"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "warehouse-native"
+icon_url: "https://icons.duckduckgo.com/ip3/rudderstack.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://rudderstack.com/>\n- Repository: <https://github.com/rudderlabs/rudder-server>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 03:57"

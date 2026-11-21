@@ -1,0 +1,13 @@
+name: "Zeotap"
+description: "Customer data platform focused on identity resolution and privacy-compliant data unification. Helps brands enrich first-party data with second-party insights. Pricing is paid and enterprise."
+source_url: "https://zeotap.com/"
+category: "Identity Resolution"
+tags:
+  - "paid"
+  - "enterprise"
+  - "identity-resolution"
+  - "privacy"
+  - "packaged-cdp"
+icon_url: "https://icons.duckduckgo.com/ip3/zeotap.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://zeotap.com/>\n"
+updated_at: "2026-11-21 03:57"

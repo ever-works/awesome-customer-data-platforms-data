@@ -1,0 +1,12 @@
+name: "Jitsu"
+description: "Open-source event collection and data pipeline platform that sends data to warehouses and analytics tools. Can be self-hosted or used as a managed service. Core is available under an open-source license."
+source_url: "https://jitsu.com/"
+category: "Open-Source CDPs"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "event-collection"
+icon_url: "https://icons.duckduckgo.com/ip3/jitsu.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://jitsu.com/>\n- Repository: <https://github.com/jitsucom/jitsu>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 03:57"

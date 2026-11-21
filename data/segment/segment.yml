@@ -1,0 +1,12 @@
+name: "Segment"
+description: "Customer data platform that collects, cleans, and routes event data to marketing and analytics tools. Built for engineering and marketing teams needing unified customer profiles. Offers a free tier and paid usage-based plans."
+source_url: "https://segment.com/"
+category: "Packaged CDPs"
+tags:
+  - "packaged-cdp"
+  - "event-collection"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/segment.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://segment.com/>\n"
+updated_at: "2026-11-21 03:57"

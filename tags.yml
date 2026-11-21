@@ -1,0 +1,44 @@
+- id: packaged-cdp
+  name: "Packaged CDP"
+- id: event-collection
+  name: "Event Collection"
+- id: api
+  name: "API"
+- id: freemium
+  name: "Freemium"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: warehouse-native
+  name: "Warehouse-Native"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: mobile
+  name: "Mobile"
+- id: reverse-etl
+  name: "Reverse ETL"
+- id: ai-powered
+  name: "AI-Powered"
+- id: e-commerce
+  name: "E-commerce"
+- id: identity-resolution
+  name: "Identity Resolution"
+- id: tag-management
+  name: "Tag Management"
+- id: data-warehouse
+  name: "Data Warehouse"
+- id: marketing
+  name: "Marketing"
+- id: free-plan
+  name: "Free Plan"
+- id: product-analytics
+  name: "Product Analytics"
+- id: customer-engagement
+  name: "Customer Engagement"
+- id: privacy
+  name: "Privacy"
+- id: data-cloud
+  name: "Data Cloud"

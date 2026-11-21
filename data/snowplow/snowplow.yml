@@ -1,0 +1,13 @@
+name: "Snowplow"
+description: "Open-source event collection platform for creating granular behavioral data. Users can self-host or use the managed Snowplow BDP service. Core is Apache 2.0 licensed; enterprise features are paid."
+source_url: "https://snowplow.io/"
+category: "Open-Source CDPs"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paid"
+  - "enterprise"
+  - "event-collection"
+icon_url: "https://icons.duckduckgo.com/ip3/snowplow.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://snowplow.io/>\n- Repository: <https://github.com/snowplow/snowplow>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 03:57"

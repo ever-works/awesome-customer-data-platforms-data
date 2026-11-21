@@ -1,0 +1,12 @@
+- id: packaged-cdps
+  name: "Packaged CDPs"
+- id: composable-warehouse-native-cdps
+  name: "Composable / Warehouse-Native CDPs"
+- id: open-source-cdps
+  name: "Open-Source CDPs"
+- id: event-collection
+  name: "Event Collection"
+- id: reverse-etl
+  name: "Reverse ETL"
+- id: identity-resolution
+  name: "Identity Resolution"

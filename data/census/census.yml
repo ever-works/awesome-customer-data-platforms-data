@@ -1,0 +1,12 @@
+name: "Census"
+description: "Reverse ETL tool that operationalizes warehouse data by syncing it to CRM, advertising, and support platforms. Targets data and marketing teams. Provides a free plan and paid tiers based on usage."
+source_url: "https://census.com/"
+category: "Reverse ETL"
+tags:
+  - "freemium"
+  - "api"
+  - "reverse-etl"
+  - "warehouse-native"
+icon_url: "https://icons.duckduckgo.com/ip3/census.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://census.com/>\n"
+updated_at: "2026-11-21 03:57"

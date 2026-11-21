@@ -1,0 +1,12 @@
+name: "Amplitude"
+description: "Product analytics and event collection platform for understanding digital customer journeys. Provides data governance and audience activation features. Offers a free plan and paid tiers."
+source_url: "https://amplitude.com/"
+category: "Event Collection"
+tags:
+  - "freemium"
+  - "api"
+  - "event-collection"
+  - "product-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/amplitude.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://amplitude.com/>\n"
+updated_at: "2026-11-21 03:57"

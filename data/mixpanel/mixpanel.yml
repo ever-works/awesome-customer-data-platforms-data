@@ -1,0 +1,12 @@
+name: "Mixpanel"
+description: "Event-based product analytics platform for tracking user behavior and funnels. Includes data pipelines and audience export capabilities. Offers a free tier and paid usage-based plans."
+source_url: "https://mixpanel.com/"
+category: "Event Collection"
+tags:
+  - "freemium"
+  - "api"
+  - "event-collection"
+  - "product-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/mixpanel.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mixpanel.com/>\n"
+updated_at: "2026-11-21 03:57"
